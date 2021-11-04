@@ -1,0 +1,348 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11740</md:content-id>
+    <md:title>U.S. History</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>a7ba2fb8-8925-4987-b182-5f4429d48daa</md:uuid>
+<md:slug>us-history</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m52490"/>
+    <col:subcollection>
+      <md:title>The Americas, Europe, and Africa Before 1492</md:title>
+      <col:content>
+        <col:module document="m49967"/>
+        <col:module document="m49986"/>
+        <col:module document="m49968"/>
+        <col:module document="m49981"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Early Globalization: The Atlantic World, 1492–1650</md:title>
+      <col:content>
+        <col:module document="m49991"/>
+        <col:module document="m49994"/>
+        <col:module document="m49995"/>
+        <col:module document="m49990"/>
+        <col:module document="m49992"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Creating New Social Orders: Colonial Societies, 1500–1700</md:title>
+      <col:content>
+        <col:module document="m50006"/>
+        <col:module document="m49998"/>
+        <col:module document="m50000"/>
+        <col:module document="m49996"/>
+        <col:module document="m49999"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Rule Britannia! The English Empire, 1660–1763</md:title>
+      <col:content>
+        <col:module document="m50018"/>
+        <col:module document="m50016"/>
+        <col:module document="m50014"/>
+        <col:module document="m50017"/>
+        <col:module document="m50015"/>
+        <col:module document="m50007"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Imperial Reforms and Colonial Protests, 1763-1774</md:title>
+      <col:content>
+        <col:module document="m50019"/>
+        <col:module document="m50021"/>
+        <col:module document="m50023"/>
+        <col:module document="m50024"/>
+        <col:module document="m50022"/>
+        <col:module document="m50020"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>America's War for Independence, 1775-1783</md:title>
+      <col:content>
+        <col:module document="m50025"/>
+        <col:module document="m50026"/>
+        <col:module document="m50027"/>
+        <col:module document="m50028"/>
+        <col:module document="m50029"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Creating Republican Governments, 1776–1790</md:title>
+      <col:content>
+        <col:module document="m50030"/>
+        <col:module document="m50031"/>
+        <col:module document="m50034"/>
+        <col:module document="m50035"/>
+        <col:module document="m50036"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Growing Pains: The New Republic, 1790–1820</md:title>
+      <col:content>
+        <col:module document="m50037"/>
+        <col:module document="m50038"/>
+        <col:module document="m50039"/>
+        <col:module document="m50041"/>
+        <col:module document="m50042"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Industrial Transformation in the North, 1800–1850</md:title>
+      <col:content>
+        <col:module document="m50043"/>
+        <col:module document="m50044"/>
+        <col:module document="m50045"/>
+        <col:module document="m50047"/>
+        <col:module document="m50048"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Jacksonian Democracy, 1820–1840</md:title>
+      <col:content>
+        <col:module document="m50049"/>
+        <col:module document="m50050"/>
+        <col:module document="m50051"/>
+        <col:module document="m50052"/>
+        <col:module document="m50053"/>
+        <col:module document="m50054"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>A Nation on the Move: Westward Expansion, 1800–1860</md:title>
+      <col:content>
+        <col:module document="m50055"/>
+        <col:module document="m50057"/>
+        <col:module document="m50059"/>
+        <col:module document="m50060"/>
+        <col:module document="m50061"/>
+        <col:module document="m50062"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cotton is King: The Antebellum South, 1800–1860</md:title>
+      <col:content>
+        <col:module document="m50063"/>
+        <col:module document="m50064"/>
+        <col:module document="m50065"/>
+        <col:module document="m50066"/>
+        <col:module document="m50068"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Antebellum Idealism and Reform Impulses, 1820–1860</md:title>
+      <col:content>
+        <col:module document="m50070"/>
+        <col:module document="m50071"/>
+        <col:module document="m50072"/>
+        <col:module document="m50074"/>
+        <col:module document="m50075"/>
+        <col:module document="m50076"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Troubled Times: the Tumultuous 1850s</md:title>
+      <col:content>
+        <col:module document="m50077"/>
+        <col:module document="m50078"/>
+        <col:module document="m50080"/>
+        <col:module document="m50081"/>
+        <col:module document="m50082"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Civil War, 1860–1865</md:title>
+      <col:content>
+        <col:module document="m50084"/>
+        <col:module document="m50085"/>
+        <col:module document="m50086"/>
+        <col:module document="m50087"/>
+        <col:module document="m50088"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Era of Reconstruction, 1865–1877</md:title>
+      <col:content>
+        <col:module document="m50090"/>
+        <col:module document="m50091"/>
+        <col:module document="m50092"/>
+        <col:module document="m50094"/>
+        <col:module document="m50095"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Go West Young Man! Westward Expansion, 1840-1900</md:title>
+      <col:content>
+        <col:module document="m50097"/>
+        <col:module document="m50098"/>
+        <col:module document="m50099"/>
+        <col:module document="m50100"/>
+        <col:module document="m50101"/>
+        <col:module document="m50102"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Industrialization and the Rise of Big Business, 1870-1900</md:title>
+      <col:content>
+        <col:module document="m50103"/>
+        <col:module document="m50104"/>
+        <col:module document="m50105"/>
+        <col:module document="m50106"/>
+        <col:module document="m50107"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Growing Pains of Urbanization, 1870-1900</md:title>
+      <col:content>
+        <col:module document="m50108"/>
+        <col:module document="m50109"/>
+        <col:module document="m50117"/>
+        <col:module document="m50114"/>
+        <col:module document="m50119"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Politics in the Gilded Age, 1870-1900</md:title>
+      <col:content>
+        <col:module document="m50120"/>
+        <col:module document="m50121"/>
+        <col:module document="m50122"/>
+        <col:module document="m50123"/>
+        <col:module document="m50124"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Leading the Way: The Progressive Movement, 1890-1920</md:title>
+      <col:content>
+        <col:module document="m50125"/>
+        <col:module document="m50126"/>
+        <col:module document="m50127"/>
+        <col:module document="m50128"/>
+        <col:module document="m50129"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Age of Empire: American Foreign Policy, 1890-1914</md:title>
+      <col:content>
+        <col:module document="m50132"/>
+        <col:module document="m50133"/>
+        <col:module document="m50135"/>
+        <col:module document="m50136"/>
+        <col:module document="m50139"/>
+        <col:module document="m50140"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Americans and the Great War, 1914-1919</md:title>
+      <col:content>
+        <col:module document="m50141"/>
+        <col:module document="m50142"/>
+        <col:module document="m50143"/>
+        <col:module document="m50144"/>
+        <col:module document="m50146"/>
+        <col:module document="m50147"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Jazz Age: Redefining the Nation, 1919-1929</md:title>
+      <col:content>
+        <col:module document="m50148"/>
+        <col:module document="m50149"/>
+        <col:module document="m50151"/>
+        <col:module document="m50152"/>
+        <col:module document="m50153"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Brother, Can You Spare a Dime? The Great Depression, 1929-1932</md:title>
+      <col:content>
+        <col:module document="m50161"/>
+        <col:module document="m50162"/>
+        <col:module document="m50163"/>
+        <col:module document="m50164"/>
+        <col:module document="m50165"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Franklin Roosevelt and the New Deal, 1932-1941</md:title>
+      <col:content>
+        <col:module document="m50166"/>
+        <col:module document="m50167"/>
+        <col:module document="m50168"/>
+        <col:module document="m50169"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fighting the Good Fight in World War II, 1941-1945</md:title>
+      <col:content>
+        <col:module document="m50170"/>
+        <col:module document="m50172"/>
+        <col:module document="m50173"/>
+        <col:module document="m50174"/>
+        <col:module document="m50175"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Post-War Prosperity and Cold War Fears, 1945-1960</md:title>
+      <col:content>
+        <col:module document="m50183"/>
+        <col:module document="m50184"/>
+        <col:module document="m50185"/>
+        <col:module document="m50186"/>
+        <col:module document="m50187"/>
+        <col:module document="m50189"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Contesting Futures: America in the 1960s</md:title>
+      <col:content>
+        <col:module document="m50178"/>
+        <col:module document="m50179"/>
+        <col:module document="m50181"/>
+        <col:module document="m50182"/>
+        <col:module document="m50180"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Political Storms at Home and Abroad, 1968-1980</md:title>
+      <col:content>
+        <col:module document="m50191"/>
+        <col:module document="m50192"/>
+        <col:module document="m50194"/>
+        <col:module document="m50195"/>
+        <col:module document="m50196"/>
+        <col:module document="m50198"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>From Cold War to Culture Wars, 1980-2000</md:title>
+      <col:content>
+        <col:module document="m50199"/>
+        <col:module document="m50200"/>
+        <col:module document="m50201"/>
+        <col:module document="m50202"/>
+        <col:module document="m50203"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Challenges of the Twenty-First Century</md:title>
+      <col:content>
+        <col:module document="m50208"/>
+        <col:module document="m50209"/>
+        <col:module document="m50210"/>
+        <col:module document="m50212"/>
+        <col:module document="m50213"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m51696"/>
+    <col:module document="m51697"/>
+    <col:module document="m51698"/>
+    <col:module document="m51699"/>
+    <col:module document="m51700"/>
+    <col:module document="m51701"/>
+    <col:module document="m51702"/>
+  </col:content>
+</col:collection>
